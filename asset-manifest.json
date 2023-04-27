@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/react-payments/static/css/main.e6c13ad2.css",
-    "main.js": "/react-payments/static/js/main.52e891c4.js",
+    "main.js": "/react-payments/static/js/main.29399541.js",
     "static/js/787.15f2ece3.chunk.js": "/react-payments/static/js/787.15f2ece3.chunk.js",
-    "static/media/security-icon.svg": "/react-payments/static/media/security-icon.f9c3d83ac09634908c37e37fe20943ab.svg",
-    "static/media/sequrity_question.svg": "/react-payments/static/media/sequrity_question.7e7d319183b2409a13e4a2f1e5a1171d.svg",
+    "static/media/shinhan_card.svg": "/react-payments/static/media/shinhan_card.84be6bf6f80d24548bf1ffbc9c267bfb.svg",
+    "static/media/bc_card.svg": "/react-payments/static/media/bc_card.6eb30052b265522c454ced82abcb2077.svg",
+    "static/media/kakao_bank.svg": "/react-payments/static/media/kakao_bank.7e34f170b9d7263fcc4c331255f8dfb3.svg",
+    "static/media/hyundai_card.svg": "/react-payments/static/media/hyundai_card.8ff95514cbbc92f08b416163caf73030.svg",
+    "static/media/lotte_card.svg": "/react-payments/static/media/lotte_card.569c93ca494a613b419ac675642c4f29.svg",
+    "static/media/woori_card.svg": "/react-payments/static/media/woori_card.a40166362f165f8e30aed38a0616eb04.svg",
+    "static/media/kookmin_card.svg": "/react-payments/static/media/kookmin_card.8755444753bada1b0fb2f3c773d2533d.svg",
+    "static/media/hana_card.svg": "/react-payments/static/media/hana_card.911c6e7a8707d74cd4302415dc7699e0.svg",
+    "static/media/security-icon.svg": "/react-payments/static/media/security-icon.f617ded4fb2716b03b5d8ea4f0a53c34.svg",
+    "static/media/sequrity_question.svg": "/react-payments/static/media/sequrity_question.afb1caca9f36246ffb39aa3c6b05ea80.svg",
     "index.html": "/react-payments/index.html",
-    "main.e6c13ad2.css.map": "/react-payments/static/css/main.e6c13ad2.css.map",
-    "main.52e891c4.js.map": "/react-payments/static/js/main.52e891c4.js.map",
+    "main.29399541.js.map": "/react-payments/static/js/main.29399541.js.map",
     "787.15f2ece3.chunk.js.map": "/react-payments/static/js/787.15f2ece3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.52e891c4.js"
+    "static/js/main.29399541.js"
   ]
 }
